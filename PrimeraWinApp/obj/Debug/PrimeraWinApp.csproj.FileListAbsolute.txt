@@ -1,0 +1,9 @@
+\\Mac\Home\Desktop\PrimeraAppNet2020\PrimeraWinApp\bin\Debug\PrimeraWinApp.exe.config
+\\Mac\Home\Desktop\PrimeraAppNet2020\PrimeraWinApp\bin\Debug\PrimeraWinApp.exe
+\\Mac\Home\Desktop\PrimeraAppNet2020\PrimeraWinApp\bin\Debug\PrimeraWinApp.pdb
+\\Mac\Home\Desktop\PrimeraAppNet2020\PrimeraWinApp\obj\Debug\PrimeraWinApp.csprojAssemblyReference.cache
+\\Mac\Home\Desktop\PrimeraAppNet2020\PrimeraWinApp\obj\Debug\PrimeraWinApp.Properties.Resources.resources
+\\Mac\Home\Desktop\PrimeraAppNet2020\PrimeraWinApp\obj\Debug\PrimeraWinApp.csproj.GenerateResource.cache
+\\Mac\Home\Desktop\PrimeraAppNet2020\PrimeraWinApp\obj\Debug\PrimeraWinApp.exe
+\\Mac\Home\Desktop\PrimeraAppNet2020\PrimeraWinApp\obj\Debug\PrimeraWinApp.pdb
+\\Mac\Home\Desktop\PrimeraAppNet2020\PrimeraWinApp\obj\Debug\PrimeraWinApp.Form1.resources
