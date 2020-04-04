@@ -7,3 +7,13 @@
 \\Mac\Home\Desktop\PrimeraAppNet2020\PrimeraWinApp\obj\Debug\PrimeraWinApp.exe
 \\Mac\Home\Desktop\PrimeraAppNet2020\PrimeraWinApp\obj\Debug\PrimeraWinApp.pdb
 \\Mac\Home\Desktop\PrimeraAppNet2020\PrimeraWinApp\obj\Debug\PrimeraWinApp.Form1.resources
+C:\Users\msarfernandez\source\repos\PrimeraAppNet2020\PrimeraWinApp\obj\Debug\PrimeraWinApp.csprojAssemblyReference.cache
+C:\Users\msarfernandez\source\repos\PrimeraAppNet2020\PrimeraWinApp\obj\Debug\PrimeraWinApp.Form1.resources
+C:\Users\msarfernandez\source\repos\PrimeraAppNet2020\PrimeraWinApp\obj\Debug\PrimeraWinApp.frmVentanaDos.resources
+C:\Users\msarfernandez\source\repos\PrimeraAppNet2020\PrimeraWinApp\obj\Debug\PrimeraWinApp.Properties.Resources.resources
+C:\Users\msarfernandez\source\repos\PrimeraAppNet2020\PrimeraWinApp\obj\Debug\PrimeraWinApp.csproj.GenerateResource.cache
+C:\Users\msarfernandez\source\repos\PrimeraAppNet2020\PrimeraWinApp\obj\Debug\PrimeraWinApp.exe
+C:\Users\msarfernandez\source\repos\PrimeraAppNet2020\PrimeraWinApp\obj\Debug\PrimeraWinApp.pdb
+C:\Users\msarfernandez\source\repos\PrimeraAppNet2020\PrimeraWinApp\bin\Debug\PrimeraWinApp.exe.config
+C:\Users\msarfernandez\source\repos\PrimeraAppNet2020\PrimeraWinApp\bin\Debug\PrimeraWinApp.exe
+C:\Users\msarfernandez\source\repos\PrimeraAppNet2020\PrimeraWinApp\bin\Debug\PrimeraWinApp.pdb
